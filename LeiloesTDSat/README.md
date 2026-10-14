@@ -7,6 +7,9 @@ Sistema de leilões desenvolvido em Java para cadastro e gerenciamento de produt
 Tecnologias Utilizadas
 
 Java
+
 Git
+
 GitHub
+
 MySQL
